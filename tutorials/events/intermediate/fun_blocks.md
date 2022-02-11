@@ -2,7 +2,7 @@
 # Fun with Events: Blocks
 
 ## Step 1
-Get an ``||player: on player walk||`` block and a ``||mobs:spawn||`` block and drag them to the workspace. Drag a ``||mobs: projectile||`` block into the **animal parameter** of the ``||mobs:spawn||`` block and select **fireworks rocket**.
+Взять ``||player: on player walk||`` block and a ``||mobs:spawn||`` блок and drag them to the workspace. Drag a ``||mobs: projectile||`` block into the **animal parameter** of the ``||mobs:spawn||`` block and select **fireworks rocket**.
 
 ```blocks
 player.onTravelled(WALK, function () { 
