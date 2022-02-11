@@ -1,7 +1,7 @@
-# Tutorial
+# Tutorial MaxZ2
 
 ## Step 1
-Create events in your story with code. 
+MaxZ2 Create events in your story with code. Maxz2
 
 ```ghost 
 player.onTravelled(WALK, function () {
