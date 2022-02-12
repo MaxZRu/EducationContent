@@ -7,8 +7,8 @@
 
 # The Climb
 
-## Step 1
-Your challenge is to ``||mobs:jump||`` really high to climb up to the inaccessible area. 
+## Step 1 MaxZ
+MaxZ Your challenge is to ``||mobs:jump||`` really high to climb up to the inaccessible area. 
 
 
 ```ghost

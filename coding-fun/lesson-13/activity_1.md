@@ -7,8 +7,8 @@
 
 # Lava swim
 
-## Step 1
-Your challenge is to ``||player:swim||`` across the lava lake. Try ``||mobs:applying fire resistance||`` to the **nearest player**.
+## Step 1 MaxZ
+MaxZ Your challenge is to ``||player:swim||`` across the lava lake. Try ``||mobs:applying fire resistance||`` to the **nearest player**.
 
 
 

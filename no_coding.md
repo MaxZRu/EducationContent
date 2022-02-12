@@ -3,7 +3,7 @@
 ### @explicitHints 1
 
 
-# No code is required for this activity. 
+# "Не требуется создание кода в этой активности"
 ## Step 1
 No code is required for this activity. 
 
