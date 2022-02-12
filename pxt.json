@@ -1,6 +1,6 @@
 {
     "name": "educationcontent",
-    "version": "8.0.2",
+    "version": "10.0.0",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -266,10 +266,6 @@
         "computing/unit-2/lesson-3.md",
         "computing/unit-3/lesson-1.md"
     ],
-    "targetVersions": {
-        "target": "1.6.8",
-        "targetId": "minecraft"
-    },
     "supportedTargets": [
         "minecraft"
     ],
